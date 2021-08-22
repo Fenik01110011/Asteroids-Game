@@ -56,14 +56,14 @@ MonoBehaviour:
   destroyTime: 10.520339
   useWorldSpace: 1
   direction: {x: 0, y: 0.24, z: 0}
-  fireballAMaterial: {fileID: 0}
-  fireballBMaterial: {fileID: 0}
-  smokeAMaterial: {fileID: 0}
-  smokeBMaterial: {fileID: 0}
-  shockwaveMaterial: {fileID: 0}
-  sparksMaterial: {fileID: 0}
-  glowMaterial: {fileID: 0}
-  heatwaveMaterial: {fileID: 0}
+  fireballAMaterial: {fileID: 2100000, guid: 3049dffabc5225d40b27675901977fdd, type: 2}
+  fireballBMaterial: {fileID: 2100000, guid: 02a46fb295082ed488cab61782ddc01f, type: 2}
+  smokeAMaterial: {fileID: 2100000, guid: f892253ab15f74115b6d10bd736b2e29, type: 2}
+  smokeBMaterial: {fileID: 2100000, guid: 36aa334bd0865ca459c9b3dfbbaf7198, type: 2}
+  shockwaveMaterial: {fileID: 2100000, guid: 21588279b895eef48a0448f7f2519813, type: 2}
+  sparksMaterial: {fileID: 2100000, guid: 35c8aea4fddc3f842bd829a8fd3d7e1c, type: 2}
+  glowMaterial: {fileID: 2100000, guid: b4d8055067ce04d4c98367d69c10b358, type: 2}
+  heatwaveMaterial: {fileID: 2100000, guid: b74c77ac638a7df4888a2868fe0c8da3, type: 2}
   autoCreateFireball: 1
   autoCreateSparks: 1
   autoCreateShockwave: 1
@@ -104,7 +104,7 @@ MonoBehaviour:
   startVelocity: {x: 0, y: 0, z: 0}
   velocity: {x: 0, y: 0, z: 0}
   detailThreshold: 0
-  shockwaveMaterial: {fileID: 0}
+  shockwaveMaterial: {fileID: 2100000, guid: 21588279b895eef48a0448f7f2519813, type: 2}
 --- !u!114 &7318283159261475394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,9 +137,9 @@ MonoBehaviour:
   startVelocity: {x: 0, y: 0, z: 0}
   velocity: {x: 50, y: 50, z: 50}
   detailThreshold: 0
-  fireballAMaterial: {fileID: 0}
-  fireballBMaterial: {fileID: 0}
-  fireShadowMaterial: {fileID: 0}
+  fireballAMaterial: {fileID: 2100000, guid: 3049dffabc5225d40b27675901977fdd, type: 2}
+  fireballBMaterial: {fileID: 2100000, guid: b74c77ac638a7df4888a2868fe0c8da3, type: 2}
+  fireShadowMaterial: {fileID: 2100000, guid: f892253ab15f74115b6d10bd736b2e29, type: 2}
   drawFireballA: 1
   drawFireballB: 1
   drawFireShadow: 1
@@ -175,9 +175,9 @@ MonoBehaviour:
   startVelocity: {x: 0, y: 0, z: 0}
   velocity: {x: 50, y: 50, z: 50}
   detailThreshold: 0
-  fireballAMaterial: {fileID: 0}
-  fireballBMaterial: {fileID: 0}
-  fireShadowMaterial: {fileID: 0}
+  fireballAMaterial: {fileID: 2100000, guid: 3049dffabc5225d40b27675901977fdd, type: 2}
+  fireballBMaterial: {fileID: 2100000, guid: 02a46fb295082ed488cab61782ddc01f, type: 2}
+  fireShadowMaterial: {fileID: 2100000, guid: 36aa334bd0865ca459c9b3dfbbaf7198, type: 2}
   drawFireballA: 1
   drawFireballB: 1
   drawFireShadow: 1
